@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Kyupid_dashboard/static/css/main.3537fa76.chunk.css",
+    "main.js": "/Kyupid_dashboard/static/js/main.ae49e2fb.chunk.js",
+    "main.js.map": "/Kyupid_dashboard/static/js/main.ae49e2fb.chunk.js.map",
+    "runtime-main.js": "/Kyupid_dashboard/static/js/runtime-main.eb7f50ac.js",
+    "runtime-main.js.map": "/Kyupid_dashboard/static/js/runtime-main.eb7f50ac.js.map",
+    "static/css/2.3628c8c4.chunk.css": "/Kyupid_dashboard/static/css/2.3628c8c4.chunk.css",
+    "static/js/2.fa6334a1.chunk.js": "/Kyupid_dashboard/static/js/2.fa6334a1.chunk.js",
+    "static/js/2.fa6334a1.chunk.js.map": "/Kyupid_dashboard/static/js/2.fa6334a1.chunk.js.map",
+    "index.html": "/Kyupid_dashboard/index.html",
+    "precache-manifest.bb8b67654053fe598af84508fceef9d0.js": "/Kyupid_dashboard/precache-manifest.bb8b67654053fe598af84508fceef9d0.js",
+    "service-worker.js": "/Kyupid_dashboard/service-worker.js",
+    "static/css/2.3628c8c4.chunk.css.map": "/Kyupid_dashboard/static/css/2.3628c8c4.chunk.css.map",
+    "static/css/main.3537fa76.chunk.css.map": "/Kyupid_dashboard/static/css/main.3537fa76.chunk.css.map",
+    "static/js/2.fa6334a1.chunk.js.LICENSE.txt": "/Kyupid_dashboard/static/js/2.fa6334a1.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.f0217a07.worker.js": "/Kyupid_dashboard/static/js/mapbox-gl-csp-worker.f0217a07.worker.js",
+    "static/js/mapbox-gl-csp-worker.f0217a07.worker.js.map": "/Kyupid_dashboard/static/js/mapbox-gl-csp-worker.f0217a07.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb7f50ac.js",
+    "static/css/2.3628c8c4.chunk.css",
+    "static/js/2.fa6334a1.chunk.js",
+    "static/css/main.3537fa76.chunk.css",
+    "static/js/main.ae49e2fb.chunk.js"
+  ]
+}
